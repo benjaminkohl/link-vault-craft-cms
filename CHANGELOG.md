@@ -1,6 +1,6 @@
 # Changelog
 
-## 4.0.6 - TBD
+## 4.0.6 - 2026-08-21
 
 - Disabled search index updating upon saving the LinkVaultDownload element.
 
