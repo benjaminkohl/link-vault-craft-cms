@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.0.6 - 2026-08-21
+
+- Disabled search index updating upon saving the LinkVaultDownload element.
+
 ## 4.0.5 - 2024-10-17
 
 - Fixed DateTime string rendering in the reports.
